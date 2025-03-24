@@ -39,4 +39,4 @@ Kullanıcılar, verilerinin silinmesini veya düzeltilmesini talep edebilirler. 
 7. İletişim
 
 Bu gizlilik politikası hakkında sorularınız varsa, bizimle şu adresten iletişime geçebilirsiniz:
-📩 E-posta: emresahinn@gmail.com
+📩 E-posta: aaemresahinn@gmail.com
