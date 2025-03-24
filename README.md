@@ -9,7 +9,6 @@ Bu gizlilik politikası, Bazar.mnee uygulamasının kullanıcılarından nasıl 
 Uygulamamız aşağıdaki bilgileri toplayabilir:
 	•	Kullanıcı Tarafından Sağlanan Bilgiler: E-posta, isim, telefon numarası vb.
 	•	Cihaz Bilgileri: IP adresi, cihaz modeli, işletim sistemi sürümü vb.
-	•	Konum Verisi: (Eğer uygulama konum bilgisi kullanıyorsa açıklayın.)
 
 2. Verilerin Kullanımı
 
@@ -34,7 +33,7 @@ Uygulamamız üçüncü taraf web sitelerine veya hizmetlere bağlantılar içer
 
 6. Kullanıcı Hakları
 
-Kullanıcılar, verilerinin silinmesini veya düzeltilmesini talep edebilirler. Bunun için bizimle [E-posta Adresi] adresinden iletişime geçebilirsiniz.
+Kullanıcılar, verilerinin silinmesini veya düzeltilmesini talep edebilirler. Bunun için bizimle aaemresahinn@gmail.com adresinden iletişime geçebilirsiniz.
 
 7. İletişim
 
